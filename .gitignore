@@ -2,6 +2,10 @@
 key.env
 .env
 
+# Data files
+*.csv
+TurboID_ASK1_ML_Final.csv
+
 # Python
 __pycache__/
 *.py[cod]
